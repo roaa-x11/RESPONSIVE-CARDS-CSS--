@@ -1,0 +1,68 @@
+#first {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#TWITTER {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 21px 13px 0px 9px;
+  margin: 63px 80px 23px 196px;
+  border-bottom-color: black;
+  border-style: solid;
+  border-width: 1px;
+  line-height: 41px;
+
+  height: 300px;
+  width: 250px;
+  margin-left: 290px;
+  margin-top: 46px;
+}
+
+.INSTAGRAM {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 12px 13px 10px 9px;
+
+  /*auto 40%  20%  */
+  margin: -347px 100px 57px 375px;
+  border-bottom-color: black;
+  border-style: solid;
+  border-width: 1px;
+  line-height: 43px;
+  height: 300px;
+  width: 250px;
+  margin-top: -347px;
+  margin-left: 590px;
+}
+
+.YOUTUBE {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 8px 19px 13px 11px;
+
+  border-bottom-color: black;
+  border-style: solid;
+  border-width: 1px;
+  line-height: 43px;
+  margin: 63px 80px 23px 41px;
+  height: 300px;
+  width: 250px;
+  margin-left: 890px;
+  margin-top: -380px;
+}
+
+a {
+  text-align: center;
+  font-size: 13px;
+  color: white;
+  text-decoration: none;
+  background-color: black;
+  padding: 13px 70px 13px 70px;
+  /* margin: 500px 30px 500px 30px;*/
+  margin-right: -20px;
+  margin-left: -20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  border-bottom-color: black;
+  border-radius: 20px;
+}
